@@ -31,7 +31,7 @@ function draw() {
    
       ellipse(x, y, radius, radius);
         stroke(245, 0, 0);
-        strokeWeight(map(radius, 0, stepSize, 0, 3));
+        strokeWeight(map(radius, 0, stepSize, 0, 2));
         fill(map(radius, 0, stepSize, 0, 255), 0, 240, 240);
       
     }
