@@ -3,12 +3,8 @@
     margin: 0;
 }
 
-/* font-family: 'Rubik Mono One', ;
-font-family: 'Montserrat', ; */
-
 body {
-    font-family: 'Rubik Mono One';
-    background-color: orange;
+    font-family: sans-serif;
 }
 
 h1 {
@@ -16,8 +12,10 @@ h1 {
     left: 50%;
     top: 2%;
     transform: translate(-50%, 0);
-    font-family: 'Rubik Mono One';
+    font-family: sans-serif;
 }
+
+
 
 p {
     position: absolute;
